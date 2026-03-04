@@ -7,9 +7,12 @@ body {
 
     padding: 0; 
 
-    background-color: #f9f9f9; 
+    background-color: #fdf6e3; 
 
-    color: #333; 
+    color: #3e2723; 
+ display: flex;
+ flex-direction: column;
+ min-height: 100vh; 
 
 } 
 
@@ -17,7 +20,7 @@ body {
 
 nav { 
 
-    background-color: #333; 
+    background-color: #6b2d1c; 
 
     padding: 15px; 
 
@@ -45,7 +48,7 @@ nav a:hover {
 
 header { 
 
-    background-color: #4CAF50; 
+    background-color: #bc6c25; 
 
     color: white; 
 
@@ -60,7 +63,7 @@ header {
 
 main { 
 
-    padding: 20px; 
+    padding: 50px; 
 
     max-width: 800px; 
 
@@ -72,7 +75,7 @@ main {
 
 footer { 
 
-    background-color: #333; 
+    background-color: #6b2d1c; 
 
     color: white; 
 
@@ -80,7 +83,6 @@ footer {
 
     padding: 15px; 
 
-    margin-top: 30px; 
 
 } 
 
