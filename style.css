@@ -1,6 +1,4 @@
  /* Global Styles */ 
-/* Global Styles */ 
-
 body { 
 
     font-family: Arial, sans-serif; 
@@ -15,8 +13,6 @@ body {
 
 } 
 
- 
-
 /* Navigation */ 
 
 nav { 
@@ -29,8 +25,6 @@ nav {
 
 } 
 
- 
-
 nav a { 
 
     color: white; 
@@ -41,15 +35,11 @@ nav a {
 
 } 
 
- 
-
 nav a:hover { 
 
     text-decoration: underline; 
 
 } 
-
- 
 
 /* Headers */ 
 
@@ -66,7 +56,6 @@ header {
 } 
 
  
-
 /* Main Content */ 
 
 main { 
@@ -78,8 +67,6 @@ main {
     margin: 0 auto; 
 
 } 
-
- 
 
 /* Footer */ 
 
@@ -97,7 +84,6 @@ footer {
 
 } 
 
- 
 
 /* Images */ 
 
