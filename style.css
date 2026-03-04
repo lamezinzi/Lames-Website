@@ -1,95 +1,109 @@
-selector{
-  property: value;
-}
+ /* Global Styles */ 
 
-body{
-  font-family: Lora, serif;
-  color: #3E362E;
-  background-color:#F5F5DC;
-  margin: 0;
-  padding: 0;
-  line-height: 1.6;
-}
+body { 
 
-header{
-  background-color: #6B705C; 
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
+    font-family: Arial, sans-serif; 
 
-header h1 {
-  margin: 0;
-}
+    margin: 0; 
 
-nav a {
-  color: #white;
-  text-decoration: none;
-  margin: 0 10px
-}
+    padding: 0; 
 
-nav a:hover {
-  color: #white 
-  text-decoration: underline;
-}
+    background-color: #f9f9f9; 
 
-main {
-  padding: 20px;
-  max-width: 800px;
-  margin: 0 auto;
-}
+    color: #333; 
 
-main img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 20px 0;
-}
+} 
 
-footer{
+ 
 
-  background-color: #E5D3B3;
+/* Navigation */ 
 
-  color: forest green;
-  text-align: center;
-  padding: 10px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+nav { 
 
-}
-p {
+    background-color: #333; 
 
-font-size: 1.1em;
+    padding: 15px; 
 
-}
+    text-align: center; 
 
-a {
+} 
 
-color: #4CAF50;
+ 
 
-text-decoration: none;
+nav a { 
 
-}
+    color: white; 
 
+    text-decoration: none; 
 
-a:hover {
+    margin: 0 15px; 
 
-text-decoration: underline;
+} 
 
-}
-img {
+ 
 
-border: 5px solid #E5D3B3;
+nav a:hover { 
 
-border-radius: 10px;
+    text-decoration: underline; 
 
-}
-main a[href^="mailto:"] {
+} 
 
-color: #1B3022;
+ 
 
-font-weight: bold;
+/* Headers */ 
 
-}
-  
+header { 
+
+    background-color: #4CAF50; 
+
+    color: white; 
+
+    padding: 30px; 
+
+    text-align: center; 
+
+} 
+
+ 
+
+/* Main Content */ 
+
+main { 
+
+    padding: 20px; 
+
+    max-width: 800px; 
+
+    margin: 0 auto; 
+
+} 
+
+ 
+
+/* Footer */ 
+
+footer { 
+
+    background-color: #333; 
+
+    color: white; 
+
+    text-align: center; 
+
+    padding: 15px; 
+
+    margin-top: 30px; 
+
+} 
+
+ 
+
+/* Images */ 
+
+img { 
+
+    border-radius: 10px; 
+
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+
+} 
