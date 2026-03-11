@@ -20,7 +20,7 @@ toggleButton.addEventListener('click', function() {
 }); 
 const texts = [ 
 
-    "Hi, I'm Your Lame Zinzi Pontsho!", 
+    "Hi, I'm Lame Zinzi Pontsho!", 
 
     "I'm an Aspiring Web Developer", 
 
